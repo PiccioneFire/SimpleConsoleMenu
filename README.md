@@ -1,2 +1,2 @@
 # SimpleConsoleMenu
-SimpleConsoleMenu Python
+SimpleConsoleMenu Python, view example!
